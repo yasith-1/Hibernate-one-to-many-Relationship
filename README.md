@@ -36,15 +36,9 @@ Consider a **Department** that has multiple **Employees**. Instead of storing al
 ## 🏃‍♂️ How to Run
 1. 📥 **Clone the repository**
    ```sh
-   git clone https://github.com/Matheesha-Abiman/hibernate-one-to-many-example.git
-   cd hibernate-one-to-many-example
+   https://github.com/yasith-1/Hibernate-one-to-many-Relationship.git
    ```
 2. ⚙️ **Configure Database** (In `hibernate.cfg.xml`)
-3. 🚀 **Build and Run**
-   ```sh
-   javac -cp ".:lib/*" com/example/MainApplication.java
-   java -cp ".:lib/*" com.example.MainApplication
-   ```
 
 ## 📝 Example Code
 ### 🏗 **1. Entity Classes**
